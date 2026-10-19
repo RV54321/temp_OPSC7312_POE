@@ -1,0 +1,13 @@
+OPSC7312 POE Android App Release Notes:
+
+ Updates to App since Prototype:
+  1)Updated overall UI design.
+  2)Updated Login Page.
+  3)Updated Register Page.
+  4)Added picture option to Observations.
+  5)Updated map to display hotspots.
+
+ Innovative features added to this verions:
+  1)'Achievements' Page - A User will be able to observe what they achieved during thier use of the App.
+  2)'Indetification' Page - A User will be able to take a picture and recieve information about the bird.
+  3)Other feature [pending progress].
